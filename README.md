@@ -7,5 +7,7 @@ Jadi disini ada 3 branch
 - android_studio -> semua file codingan praktikum PSI yang berhubungan sama android studio ada disini, jadi kalau mau pull di android studio pake branch ini yaa
 - intellij_idea -> semua file codingan praktikum PSI yang berhubugnan sama intellij ide ada disini, jadi kalau mau pull di intellij pake branch ini yaa
 
+Pullnya pake integration git yang ada di android studio sama intellij yaa, jangan manual :)
+
 Semoga Sukses 😁
 Love you guys 💗
