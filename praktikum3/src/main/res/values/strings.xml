@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">praktikum3</string>
+    <string name="change_profile">Ubah Profil</string>
+    <string name="change_photo">Ubah Foto</string>
+    <string name="sample_name">Kylix Eza Saputra</string>
+    <string name="sample_email">kylixeza.dev@gmail.com</string>
+    <string name="logout">Keluar</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="ability">Keahlian</string>
+    <string name="mobile">Mobile</string>
+    <string name="front_end">Front-End</string>
+    <string name="back_end">Back-End</string>
+    <string name="data_science">Data Science</string>
+    <string name="game">Game</string>
+    <string name="ui_ux">UI/UX</string>
+    <string name="ar">AR</string>
+    <string name="vr">VR</string>
+    <string name="blockchain">Blockchain</string>
+    <string name="product">Product</string>
 </resources>
