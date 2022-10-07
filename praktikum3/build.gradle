@@ -27,6 +27,12 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
+    //enable view binding
+    buildFeatures {
+        viewBinding true
+    }
+
     kotlinOptions {
         jvmTarget = '1.8'
     }
@@ -44,4 +50,7 @@ dependencies {
 
     //circle image view
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    //fragment ktx
+    implementation 'androidx.fragment:fragment-ktx:1.5.3'
 }

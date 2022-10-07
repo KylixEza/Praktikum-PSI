@@ -20,4 +20,9 @@
     <string name="vr">VR</string>
     <string name="blockchain">Blockchain</string>
     <string name="product">Product</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboard_title_content">Masih Bingung Dengan Kemampuan Diri Sendiri?</string>
+    <string name="login">Masuk</string>
+    <string name="onboard_content">Aplikasi ini akan memberikan rekomendasi kemampuan yang diperlukan di zaman sekarang</string>
 </resources>
