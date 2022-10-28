@@ -16,3 +16,5 @@ rootProject.name = "Praktikum PSI"
 include ':app'
 include ':praktikum1'
 include ':praktikum3'
+include ':praktikum4'
+include ':praktikum5'

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">praktikum4</string>
+    <string name="rectangular">Persegi Panjang</string>
+    <string name="parallelogram">Jajar Genjang</string>
+    <string name="triangle">Segitiga</string>
+
+    <string name="calculation_title">Hitung Luas %s</string>
+    <string name="calculate">Hitung</string>
+</resources>
