@@ -6,7 +6,7 @@ fun Int.solveHanoiTower(
 ) {
 	if (this == 0) return
 	this.minus(1).solveHanoiTower(fromRod, auxRod, toRod)
-	println("Move disk $this from rod $fromRod to rod $toRod")
+	println("Memindahkan disk $this dari pilar $fromRod ke pilar $toRod")
 	this.minus(1).solveHanoiTower(auxRod, toRod, fromRod)
 }
 
